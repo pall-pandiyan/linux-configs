@@ -1,0 +1,10 @@
+export LANG=en_US.UTF-8
+export PATH=$HOME/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl
+export LD_LIBRARY_PATH=$HOME/.local/lib:$LD_LIBRARY_PATH
+export EDITOR="vim"
+export TERMINAL="lxterminal"
+export BROWSER="google-chrome-stable"
+export READER="evince"
+export FILE="ranger"
+export RANGER_LOAD_DEFAULT_RC="FALSE"
+export SUDO_ASKPASS="$HOME/.local/bin/dmenupass"

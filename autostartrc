@@ -1,0 +1,8 @@
+#$HOME/.local/bin/setscreen.sh &
+#/usr/bin/nm-applet &
+/usr/bin/feh --bg-scale $HOME/.config/wall.png &
+/usr/bin/dunst &
+/usr/bin/numlockx &
+/usr/bin/clipmenud &
+#/usr/bin/qbittorrent &
+#/usr/bin/megasync &

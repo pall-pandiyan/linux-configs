@@ -1,0 +1,9 @@
+alias i3rc='vim $HOME/.config/i3/config'
+alias i3brc='vim $HOME/.config/i3/i3blocks.conf'
+
+alias ranrc='vim $HOME/.config/ranger/rc.conf'
+alias rifrc='vim $HOME/.config/ranger/rifle.conf'
+
+alias asrc='vim $HOME/.config/autostartrc'
+alias envrc='vim $HOME/.config/envrc'
+alias alrc='vim $HOME/.config/aliasrc'
